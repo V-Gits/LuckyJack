@@ -28,4 +28,3 @@ pip install -r requirements.txt
 
 ## Usage
 python slot_machine.py
-cd 
