@@ -1,7 +1,7 @@
 # Slot Machine Game
 
 ## Project Video Link
-- To the Video
+To the Video
 - [LuckJack](https://drive.google.com/file/d/1cTyVnoIXcHZ_KcTniVFB7kuecJbc_C-H/view?usp=sharing)
 
 ## College
