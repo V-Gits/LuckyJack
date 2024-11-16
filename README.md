@@ -1,5 +1,18 @@
 # Slot Machine Game
 
+## Project Video Link
+-- To the Video
+-- Drive Link: https://drive.google.com/file/d/1cTyVnoIXcHZ_KcTniVFB7kuecJbc_C-H/view?usp=sharing
+[LuckJack](https://drive.google.com/file/d/1cTyVnoIXcHZ_KcTniVFB7kuecJbc_C-H/view?usp=sharing)
+
+## College
+College Of Engineering & Managment Punnapra
+
+## Team Members
+- Vivek Venugopal
+- Fitha Faisal
+- Pranavjith K R
+
 ## Description
 This is a Slot Machine game developed using Python, PySide6 for the GUI, and integrates speech recognition for a voice-controlled betting feature. Players can place bets using a text input or voice commands, and the game provides a visual interface for spinning the reels.
 
