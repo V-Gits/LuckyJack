@@ -2,8 +2,7 @@
 
 ## Project Video Link
 - To the Video
-- Drive Link: https://drive.google.com/file/d/1cTyVnoIXcHZ_KcTniVFB7kuecJbc_C-H/view?usp=sharing
-[LuckJack](https://drive.google.com/file/d/1cTyVnoIXcHZ_KcTniVFB7kuecJbc_C-H/view?usp=sharing)
+- [LuckJack](https://drive.google.com/file/d/1cTyVnoIXcHZ_KcTniVFB7kuecJbc_C-H/view?usp=sharing)
 
 ## College
 College Of Engineering & Managment Punnapra
